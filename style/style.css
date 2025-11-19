@@ -39,49 +39,8 @@ nav{
     gap: 100px;
     margin: 10px 200px;
 }
+/* <!-- Latest  Deals section */
 .Latest{
     text-align: center;
     margin: 5px 200px;
-}
-.lat{
-    display: flex;
-    align-items: center;
-    margin: 50px 200px;
-}
-.lats{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 0px 20px;
-}
-.backimage{
-     
-    background-image: url("../Assets/deal-bloom.png");
-    background-repeat: no-repeat;
-     padding: 80px 100px;
-     height: 100px 100px;
-     width: auto;
-
-}
-.backimage2{
-    background-image: url("../Assets/deal-zabo.png");
-    padding: 100px 100px;
-     padding: 80px 100px;
-     height: 100px 100px;
-}
-.Join{
-    background-image: url("../Assets/news-letter-bg.png");
-    text-align: center;
-    margin: 5px 200px;
-    background-repeat: no-repeat;
-    padding-top: 150px;
-    padding-bottom: 150px;
-}
-<!-- footer section -->
-.footer{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 50px 200px;
-    height: 100px 100px 100px 100px;
 }
